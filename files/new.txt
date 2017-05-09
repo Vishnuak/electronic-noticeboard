@@ -1,0 +1,18 @@
+How to install Android N 7.0 (Nougat) Boot Animation on any rooted android smartphone
+
+ Android N (Nougat) is the latest version of Android OS. Not every phone will get the Android N update. But every android user can install Android N Boot animation on their device if they want to. In this tutorial I will show you how to install Android N Boot animation on any rooted android smartphone. 
+
+Inorder to install any other Boot animation on your phone, you must have root access on your phone. You can google it for different rooting techniques. But do it at your own risk. Once you have rooted your phone, you can install the Android 7.0 boot animation.
+First you need to install any root file manager like ES file explorer or Root explorer. Also download the bootanimation.zip fie.
+
+Open the Root explorer and grant root access to it.
+
+Then go to system>>media from the root storage.
+
+Rename the bootanimation.zip file in the folder to bootanimation.zip.bak or bootanimation.zip.old. This is the default boot animation of your phone. You can restore it later if needed.
+
+Now copy the newly downloaded Android N boot animation file bootanimation.zip to system>>media folder.
+
+Select the bootanimation.zip fie and change it’s permissions to rw-r-r or 0644.
+That’s it. Now restart your phone and enjoy the new Android Nougat boot animation.
+
